@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react_asian-net/static/css/main.124ee994.css",
-    "main.js": "/react_asian-net/static/js/main.88e1d82d.js",
-    "static/js/787.7cb541a5.chunk.js": "/react_asian-net/static/js/787.7cb541a5.chunk.js",
-    "index.html": "/react_asian-net/index.html",
-    "main.124ee994.css.map": "/react_asian-net/static/css/main.124ee994.css.map",
-    "main.88e1d82d.js.map": "/react_asian-net/static/js/main.88e1d82d.js.map",
-    "787.7cb541a5.chunk.js.map": "/react_asian-net/static/js/787.7cb541a5.chunk.js.map"
+    "main.css": "/asian-net/static/css/main.124ee994.css",
+    "main.js": "/asian-net/static/js/main.269522d3.js",
+    "static/js/787.7cb541a5.chunk.js": "/asian-net/static/js/787.7cb541a5.chunk.js",
+    "index.html": "/asian-net/index.html",
+    "main.124ee994.css.map": "/asian-net/static/css/main.124ee994.css.map",
+    "main.269522d3.js.map": "/asian-net/static/js/main.269522d3.js.map",
+    "787.7cb541a5.chunk.js.map": "/asian-net/static/js/787.7cb541a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.124ee994.css",
-    "static/js/main.88e1d82d.js"
+    "static/js/main.269522d3.js"
   ]
 }
